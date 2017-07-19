@@ -3,7 +3,9 @@ package com.pattern.observer;
 public class ObseverA extends Obsever{
 
 
-/**
+/*
+
+*实打实大概
 */
 	private Subject subject;
 	
