@@ -2,6 +2,9 @@ package com.pattern.observer;
 
 public class ObseverA extends Obsever{
 
+
+/**
+*/
 	private Subject subject;
 	
 	/**
