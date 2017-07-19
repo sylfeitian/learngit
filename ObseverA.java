@@ -6,6 +6,7 @@ public class ObseverA extends Obsever{
 	
 	
 	//测试。。。
+	//sadfsaf
 	public ObseverA() {
 		super();
 		// TODO Auto-generated constructor stub
